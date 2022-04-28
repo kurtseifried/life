@@ -1,21 +1,24 @@
 title Kurt Seifried Career
 
-// Projects / interests
+// Projects / interests / LMS content
 component OpenCPEs [0.60, 0.07] label [5, -10]
 component GSD [0.51, 0.12]
 component CWE [0.25, 0.06]
 component Threat Modelling [0.33, 0.14]
-component OpenSource in Enterprise [0.75, 0.56]
+component OpenSource in Enterprise [0.58, 0.60] 
 component OpenSource in Cloud [0.91, 0.50]
+component CAIQ [0.87, 0.23] label [5, -10]
+component CCM [0.81, 0.21]
 
 // Production and presentation of content
 component Content [0.72, 0.20] label [-16, -20]
-pipeline Content [0.2, 0.5]
+pipeline Content [0.2, 0.6]
 component SlideDecks [0.69, 0.42] label [-29, 29]
-component YouTube [0.84, 0.30] label [-29, -23]
+component YouTube [0.83, 0.33] label [-29, -23]
 component Articles and Blogs [0.69, 0.46] label [-28, -63]
 component Notes Outlines [0.69, 0.36] label [-42, -19]
 component WardleyMaps [0.69, 0.26] label [-36, 27]
+component CSA LMS [0.69, 0.52] label [-23, -22]
 
 // Research of content
 component Researching [0.40, 0.30] label [-32, -19]
