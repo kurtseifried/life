@@ -1,0 +1,30 @@
+title Kurt Seifried Career
+
+// Projects / interests
+component OpenCPEs [0.69, 0.07]
+component GSD [0.54, 0.07]
+component CWE [0.25, 0.06]
+
+// Production and presentation of content
+component Content [0.72, 0.20] label [-16, -20]
+pipeline Content [0.2, 0.5]
+component SlideDecks [0.69, 0.42] label [-29, 29]
+component YouTube [0.84, 0.30] label [-29, -23]
+component Articles and Blogs [0.69, 0.46] label [-28, -63]
+component Notes Outlines [0.69, 0.36] label [-42, -19]
+component WardleyMaps [0.69, 0.26] label [-36, 27]
+
+// Research of content
+component Researching [0.40, 0.30] label [-32, -19]
+pipeline Researching [0.3, 0.8]
+component individual [0.38, 0.47] label [-29, -20]
+component collaborative [0.38, 0.57] label [-23, 22]
+component WGs [0.38, 0.66] label [-10, -18]
+component OpenSource [0.37, 0.75] label [-19, -18]
+
+// CSA IT operations
+component ITOps [0.19, 0.50]
+pipeline ITOps [0.5, 0.8]
+component CloudOld [0.16, 0.57] label [-20, 20]
+component CloudNew [0.16, 0.68] label [-29, 24]
+component ITOpsTeam [0.17, 0.77] label [-25, -15]
